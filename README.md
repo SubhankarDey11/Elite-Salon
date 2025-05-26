@@ -1,4 +1,4 @@
-# Salon Website
+# Elite Salon Website
 
 A modern, responsive salon website built with Next.js, Tailwind CSS, and ShadCN UI.
 
@@ -28,7 +28,7 @@ git clone https://github.com/SubhankarDey11/Elite-Salon.git
 
 2. Install dependencies:
 ```bash
-cd salon-website
+cd Elite-Salon
 npm install
 ```
 
@@ -42,7 +42,7 @@ npm run dev
 ## Project Structure
 
 ```
-salon-website/
+Elite-Salon/
 ├── src/
 │   ├── app/
 │   │   ├── components/
